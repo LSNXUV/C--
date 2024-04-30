@@ -1,0 +1,8 @@
+﻿  StudentManagerSys.cpp
+S:\C++计算思维综合实践\学生成绩管理与分析系统\学生成绩管理与分析系统\学生成绩管理与分析系统\StuSysHeader\Student.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+S:\C++计算思维综合实践\学生成绩管理与分析系统\学生成绩管理与分析系统\学生成绩管理与分析系统\StuSysHeader\Student.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 928 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  学生成绩管理与分析系统.vcxproj -> S:\C++计算思维综合实践\学生成绩管理与分析系统\学生成绩管理与分析系统\x64\Release\学生成绩管理与分析系统.exe

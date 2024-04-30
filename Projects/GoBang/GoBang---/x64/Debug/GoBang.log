@@ -1,0 +1,5 @@
+﻿  GoBang.cpp
+S:\C++计算思维综合实践\GoBang\GoBangCode\GoBang\GoBangHeader\Record.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+S:\C++计算思维综合实践\GoBang\GoBangCode\GoBang\GoBangHeader\Package.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+S:\C++计算思维综合实践\GoBang\GoBangCode\GoBang\GoBangHeader\GoBang.h(431,38): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  GoBang.vcxproj -> S:\C++计算思维综合实践\GoBang\GoBangCode\x64\Debug\GoBang.exe

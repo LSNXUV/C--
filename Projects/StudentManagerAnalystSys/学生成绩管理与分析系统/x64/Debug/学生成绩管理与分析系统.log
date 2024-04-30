@@ -1,0 +1,5 @@
+﻿  StudentManagerSys.cpp
+S:\Projects\C++\C++计算思维综合实践\学生成绩管理与分析系统\学生成绩管理与分析系统\学生成绩管理与分析系统\StuSysHeader\Student.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+S:\Projects\C++\C++计算思维综合实践\学生成绩管理与分析系统\学生成绩管理与分析系统\学生成绩管理与分析系统\StuSysHeader\Student.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+S:\Projects\C++\C++计算思维综合实践\学生成绩管理与分析系统\学生成绩管理与分析系统\学生成绩管理与分析系统\StuSysHeader\Analyst.h(895,14): warning C4101: “str”: 未引用的局部变量
+  学生成绩管理与分析系统.vcxproj -> S:\Projects\C++\C++计算思维综合实践\学生成绩管理与分析系统\学生成绩管理与分析系统\x64\Debug\学生成绩管理与分析系统.exe
